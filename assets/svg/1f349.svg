@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-	<path fill="#5C913B" d="M 2.472,6.572 l 1.86,0.723 l 9.438,18.835 l 20.243,-7.292 l 1.855,0.722 c -2.538,6.673 -9.122,11.44 -16.868,11.44 c -9.941,0 -18,-7.835 -18,-17.5 c 0,-2.462 0.528,-4.802 1.472,-6.928 Z"/>
-	<path fill="#FFE8B6" d="M 4.332,7.295 l 1.859,0.724 l 10.281,11.58 l 15.684,-1.483 l 1.857,0.722 c -2.243,5.958 -8.109,10.218 -15.013,10.218 c -8.836,0 -16,-6.965 -16,-15.556 c 0,-2.207 0.479,-4.303 1.332,-6.205 Z"/>
-	<path fill="#DD2E44" d="M 6.191,8.019 l 25.965,10.097 c -1.946,5.242 -7.094,8.995 -13.156,8.995 c -7.732,0 -14,-6.093 -14,-13.611 c 0,-1.952 0.43,-3.803 1.191,-5.481 Z"/>
+	<path fill="#5C913B" d="M 1.52,4.997 l 1.92,0.747 l 9.745,19.446 l 20.9,-7.529 l 1.915,0.746 c -2.62,6.889 -9.418,11.811 -17.416,11.811 c -10.263,0 -18.584,-8.089 -18.584,-18.068 c 0,-2.542 0.545,-4.958 1.52,-7.153 Z"/>
+	<path fill="#FFE8B6" d="M 3.44,5.744 l 1.92,0.747 l 10.614,11.956 l 16.193,-1.531 l 1.918,0.745 c -2.316,6.152 -8.372,10.55 -15.501,10.55 c -9.122,0 -16.519,-7.191 -16.519,-16.061 c 0,-2.279 0.494,-4.443 1.375,-6.406 Z"/>
+	<path fill="#DD2E44" d="M 5.36,6.491 l 26.807,10.425 c -2.009,5.412 -7.324,9.287 -13.583,9.287 c -7.983,0 -14.454,-6.291 -14.454,-14.053 c 0,-2.015 0.444,-3.926 1.23,-5.659 Z"/>
 	<g fill="#000000">
-		<ellipse rx="0.5" ry="1" transform="translate(9.5 14) rotate(33.706)"/>
-		<ellipse rx="0.5" ry="1" transform="translate(15.5 15) rotate(33.706)"/>
-		<ellipse rx="0.5" ry="1" transform="translate(20.5 20) rotate(-5.198)"/>
-		<ellipse rx="0.5" ry="1" transform="translate(11.5 18) rotate(-5.198)"/>
-		<ellipse rx="0.5" ry="1" transform="translate(15.5 23) rotate(37.065)"/>
-		<ellipse rx="0.5" ry="1" transform="translate(23.5 24) rotate(-29.535)"/>
-		<ellipse rx="0.5" ry="1" transform="translate(16.5 19) rotate(-33.257)"/>
-		<ellipse rx="0.5" ry="1" transform="translate(25.5 20) rotate(37.076)"/>
+		<ellipse rx="0.516" ry="1.032" transform="translate(8.776,12.666) rotate(33.706)"/>
+		<ellipse rx="0.516" ry="1.032" transform="translate(14.971,13.699) rotate(33.706)"/>
+		<ellipse rx="0.516" ry="1.032" transform="translate(20.133,18.861) rotate(-5.198)"/>
+		<ellipse rx="0.516" ry="1.032" transform="translate(10.841,16.796) rotate(-5.198)"/>
+		<ellipse rx="0.516" ry="1.032" transform="translate(14.971,21.958) rotate(37.065)"/>
+		<ellipse rx="0.516" ry="1.032" transform="translate(23.23,22.991) rotate(-29.535)"/>
+		<ellipse rx="0.516" ry="1.032" transform="translate(16.003,17.829) rotate(-33.257)"/>
+		<ellipse rx="0.516" ry="1.032" transform="translate(25.295,18.861) rotate(37.076)"/>
 	</g>
 </svg>
