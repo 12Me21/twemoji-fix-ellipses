@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#66757F" d="M3 16h30v18H3z"/><path fill="#CCD6DD" d="M2 34h32c1.104 0 2 .896 2 2H0c0-1.104.896-2 2-2z"/><path fill="#292F33" d="M18 23c-1.657 0-3 1.343-3 3v6h6v-6c0-1.657-1.343-3-3-3z"/><path fill="#CCD6DD" d="M3 21h4v11H3zm6 0h4v11H9zm20 0h4v11h-4zm-6 0h4v11h-4z"/><path fill="#AAB8C2" d="M2 32h32v2H2z"/><path fill="#66757F" d="M36 11L18 0 0 11z"/><path fill="#CCD6DD" d="M18 2.4L2 12v4h32v-4z"/><path fill="#8899A6" d="M3 19h4v2H3zm6 0h4v2H9zm14 0h4v2h-4zm6 0h4v2h-4z"/><path fill="#CCD6DD" d="M1 12h34v5H1z"/><path fill="#AAB8C2" d="M36 12c0 .552-.447 1-1 1H1c-.552 0-1-.448-1-1v-1c0-.552.448-1 1-1h34c.553 0 1 .448 1 1v1zm0 6c0 .552-.447 1-1 1H1c-.552 0-1-.448-1-1v-1c0-.552.448-1 1-1h34c.553 0 1 .448 1 1v1z"/><path fill="#E1E8ED" d="M13 32h10v2H13z"/><path fill="#F5F8FA" d="M11 34h14v2H11z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+	<path d="M 4,17 h28 v18 h-28 v-18 Z" fill="#66757F"/>
+	<path d="M 36,11 h-36 l 18,-11 l 18,11 Z" fill="#66757F"/>
+	<path d="M 15,26 a 3,3 0 01 6,0 v7 h-6 v-7 Z" fill="#292F33"/>
+	<path d="M 2,34 l1,-1 h30 l1,1 a 2,2 0 01 2,2 h-36 a 2,2 0 01 2,-2 Z"  fill="#CCD6DD"/>
+	<path d="M 18,2.4 l 16,9.6 v4 h-32 v-4 l 16,-9.6 Z"  fill="#CCD6DD"/>
+	<path d="M 1,12 h34 v5 h-34 v-5 Z"  fill="#CCD6DD"/>
+	
+	<path d="M 3,21 l2,-2 l2,2 v12 h-4 v-12 Z"  fill="#CCD6DD"/>
+	<path d="M 9,21 l2,-2 l2,2 v12 h-4 v-12 Z"  fill="#CCD6DD"/>
+	<path d="M 23,21 l2,-2 l2,2 v12 h-4 v-12 Z"  fill="#CCD6DD"/>
+	<path d="M 29,21 l2,-2 l2,2 v12 h-4 v-12 Z"  fill="#CCD6DD"/>
+	<path d="M 3,18 h4 v3 h-4 v-3 Z"  fill="#8899A6"/>
+	<path d="M 9,18 h4 v3 h-4 v-3 Z"  fill="#8899A6"/>
+	<path d="M 23,18 h4 v3 h-4 v-3 Z"  fill="#8899A6"/>
+	<path d="M 29,18 h4 v3 h-4 v-3 Z"  fill="#8899A6"/>
+	
+	<path d="M 2,32 h32 v2 h-32 v-2 Z"  fill="#AAB8C2"/>
+	<path fill="#AAB8C2" d="M 36,12 a 1,1 0 01 -1,1 h-34 a 1,1 0 01 -1,-1 v-1 a 1,1 0 01 1,-1 h34 a 1,1 0 01 1,1 v1 Z"/>
+	<path fill="#AAB8C2" d="M 36,18 a 1,1 0 01 -1,1 h-34 a 1,1 0 01 -1,-1 v-1 a 1,1 0 01 1,-1 h34 a 1,1 0 01 1,1 v1 Z"/>
+	<path d="M 13,32 h10 v3 h-10 v-3 Z"  fill="#E1E8ED"/>
+	<path d="M 11,34 h14 v2 h-14 v-2 Z"  fill="#F5F8FA"/>
+</svg>
