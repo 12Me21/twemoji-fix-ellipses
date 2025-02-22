@@ -1,7 +1,7 @@
 <svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-	<path d="M 6,30 l 2,-2 l 2,2 v9 h-4 v-9 Z" fill="#939598"/>
-	<path d="M 16,30 l 2,-2 l 2,2 v9 h-4 v-9 Z" fill="#939598"/>
-	<path d="M 26,30 l 2,-2 l 2,2 v9 h-4 v-9 Z" fill="#939598"/>
+	<path d="M 6,30 l2,-2l2,2 v6 h-4 v-6 Z" fill="#939598"/>
+	<path d="M 16,30 l2,-2l2,2 v6 h-4 v-6 Z" fill="#939598"/>
+	<path d="M 26,30 l2,-2l2,2 v6 h-4 v-6 Z" fill="#939598"/>
 	<path d="M 0,22 h33 l 3,3 v1 l -1,1 h-34 l -1,-1 v-4 Z" fill="#939598"/>
 	<path d="M 6,27 h4 v3 h-4 v-3 Z" fill="#6D6E71"/>
 	<path d="M 16,27 h4 v3 h-4 v-3 Z" fill="#6D6E71"/>
