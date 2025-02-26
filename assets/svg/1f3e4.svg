@@ -5,7 +5,7 @@
 	<path d="M 33,12 a 2,2 0 01 2,2 l-1,1 h-32 l-1,-1 a 2,2, 0 01 2,-2 h30 Z" fill="#D99E82"/>
 	<path d="M 1,14 h34 v2 l-1,1 h-32 l-1,-1 v-2 Z" fill="#FFE8B6"/>
 	<path d="M 1,16 h34 v2 l-1,1 h-32 l-1,-1 v-2 Z" fill="#C1694F"/>
-	<path d="M 1,18 h34 v16 a 2,2 0 01 -2,2 h-30 a 2,2 0 01 -2,-2 v-16 Z" fill="#BE1931"/>
+	<path d="M 1,18 h34 v16 a 2,2 0 01 -2,2 h-12 l-3,-3,-3,3 h-12 a 2,2 0 01 -2,-2 v-16 Z" fill="#BE1931"/>
 	
 	<path d="M 15,36 v-6 a 3,3 0 01 6,0 v6 h-6 Z" fill="#CCD6DD"/>
 	<path d="M 25,34 v-4 a 2,2 0 01 6,0 v4 h-6 Z" fill="#AAB8C2"/>
