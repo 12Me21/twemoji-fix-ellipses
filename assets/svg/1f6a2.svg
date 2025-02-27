@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#292F33" d="M16 0h4v5h-4z"/><path fill="#D1D3D4" d="M16 2h4v4h-4z"/><path fill="#A7A9AC" d="M18 2h2v4h-2z"/><path fill="#66757F" d="M18 19H5s1.355 8 4.875 14C13.394 39 18 33 18 33s4.606 6 8.125 0C29.645 27 31 19 31 19H18z"/><path fill="#99AAB5" d="M18 19H5s1.355 8 4.875 14C13.394 39 18 33 18 33V19z"/><path fill="#55ACEE" d="M0 30h36v6H0z"/><path fill="#E6E7E8" d="M30 9h-2.45l-.242-4H8.692l-.241 4H6v6h2.088l-.242 4h20.308l-.242-4H30z"/><path fill="#D1D3D4" d="M10 15h16v4H10z"/><path fill="#6D6E71" d="M8 11h20v2H8z"/><path fill="#BCBEC0" d="M10 7h16v2H10z"/><path fill="#BE1931" d="M5.913 23h24.174c.201-.747.368-1.427.5-2H5.413c.132.573.299 1.253.5 2z"/><path fill="#A0041E" d="M18 23h12.087c.201-.747.368-1.427.5-2H18v2z"/><path fill="#BCBEC0" d="M12 17h12v2H12z"/><path fill="#58595B" d="M16 0h2v2h-2z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+	<path d="M 20,0 v2 l -1,1 h-2 v-2 l 1,-1 h2 Z" fill="#292f33"/>
+	<path fill="#58595B" d="M 16,0 h2 v2 l -1,1 l -1,-1 v-2 Z"/>
+	<path fill="#D1D3D4" d="M 16,2 h2 l 1,1 v4 h-3 v-5 Z"/>
+	<path fill="#A7A9AC" d="M 18,2 h2 v5 h-2 v-5 Z"/>
+	<g fill="#E6E7E8">
+		<path d="M 28.154,19 v2 h-20.308 v-2 l 0.846,-14 h18.616 l 0.846,14 Z"/>
+		<path d="M 6,9 h24 v6 h-24 v-6 Z"/>
+	</g>
+	<path fill="#D1D3D4" d="M 10,15 h16 v6 h-16 v-6 Z"/>
+	<path fill="#BCBEC0" d="M 12,17 h12 v4 h-12 v-4 Z"/>
+	<path fill="#BCBEC0" d="M 10,7 h16 v2 h-16 v-2 Z"/>
+	<path fill="#6D6E71" d="M 8,11 h20 v2 h-20 v-2 Z"/>
+	<path d="M 18,33 l -2,-2 v-10 l 2,-2 h13 s -0.13,0.765 -0.413,2 l -1.087,1 l 0.589,1 c -0.762,2.842 -2.04,6.72 -3.964,10 c -3.52,6 -8.125,0 -8.125,0 Z" fill="#66757F"/>
+	<path d="M 18,33 s -4.605,6 -8.125,0 c -1.924,-3.28 -3.202,-7.158 -3.964,-10 l 0.589,-1 l -1.087,-1 c -0.283,-1.235 -0.413,-2 -0.413,-2 h13 v14 Z" fill="#99aab5"/>
+	<path d="M 5.911,23 c -0.201,-0.748 -0.366,-1.425 -0.498,-2 h12.587 l 1,1 l -1,1 h-12.089 Z" fill="#be1931"/>
+	<path d="M 30.089,23 h-12.089 v-2 h12.587 c -0.132,0.575 -0.297,1.252 -0.498,2 Z" fill="#a0041e"/>
+	<path fill="#55acee" d="M 0,30 h36 v6 h-36 v-6 Z"/>
+</svg>
