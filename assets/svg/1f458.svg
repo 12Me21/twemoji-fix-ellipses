@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><path fill="#3B88C3" d="M22 0h3l5 2.808 5 23.307L26 27l-6-16.423M14 0h-3L6 2.808 1 26.115 10 27l6-16.423"/><path fill="#3B88C3" d="M11 5h14v31H11z"/><path fill="#269" d="M17.985 8.761L11 14h2l5.094-5.094z"/><path fill="#88C9F9" d="M25 20s-1.167 1-7 1-7-1-7-1v-6h14v6z"/><path fill="#FFF" d="M25 18s-1.167 1-7 1-7-1-7-1v-2h14v2zm0-18l-7 9-7-9z"/><path fill="#99AAB5" d="M20.333 0L18 3l-2.333-3z"/><path fill="#269" d="M25 25V4l2 23zm-14 0V4L9 27z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+	<g fill="#3b88c3">
+		<path d="M 16,10.577 l -6,16.423 l -9,-0.885 l 5,-23.307 l 5,-2.808 l5,3 Z"/><path d="M 20,10.577 v-7.577 l 5,-3 l 5,2.808 l 5,23.307 l -9,0.885 l -6,-16.423 Z"/>
+		<path d="M 11,36 v-11 l-2,-2 l2,-18 h14 l2,18 l-2,2 v11 h-14 Z"/>
+	</g>
+	<g fill="#226699">
+		<path d="M 11,25 l -2,2 l 2,-23 v10 l 1,1 v4 l -1,1 v5 Z"/>
+		<path d="M 25,25 v-5 l-1,-1 v-4 l1,-1 v-10 l 2,23 l -2,-2 Z"/>
+		<path d="M 11,16 v-2 l 7,-5.25 v0.25 l -7,7 Z" fill="#226699"/>
+	</g>
+	<path d="M 25,20 s -1.167,1 -7,1 s -7,-1 -7,-1 v-6 h14 v6 Z" fill="#88c9f9"/>
+	<path d="M 25,18 s -1.167,1 -7,1 s -7,-1 -7,-1 v-2 h14 v2 Z" fill="#ffffff"/>
+	<path d="M 18,9 l -7,-9 h4.667 l2.333,1 l2.333,-1 h4.667 l -7,9 Z" fill="#ffffff"/>
+	<path d="M 18,3 l -2.333,-3 h4.666 l -2.333,3 Z" fill="#99aab5"/>
+</svg>
